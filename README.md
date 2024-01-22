@@ -4,7 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory,
+organise according to file repositry 
+
+![Screenshot 2024-01-22 100637](https://github.com/Jayanth-j-FSD/Employee-Info-react-/assets/91666489/9c4b213d-bbff-4fca-8aef-9ceeda3144d2)
+
+
+
+you can run:
+
 
 ### `npm start`
 
